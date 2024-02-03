@@ -13,7 +13,7 @@ Go from beginner to expert by learning the foundations of Next.js and building a
 5.  [Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
 6.  [Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
 7.  [Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
-8.  Static and Dynamic Rendering
+8.  [Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 9.  Streaming
 10. Partial Rendering (Optional)
 11. Adding Search and Pagination
