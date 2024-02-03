@@ -6,7 +6,7 @@ Go from beginner to expert by learning the foundations of Next.js and building a
 
 ### 16 chapters that take you from React to Next.js
 
-1.  Getting Started
+1.  [Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
 2.  CSS Styling
 3.  Optimizing Fonts and Images
 4.  Creating Layouts and Pages
