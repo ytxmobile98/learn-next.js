@@ -17,7 +17,7 @@ Go from beginner to expert by learning the foundations of Next.js and building a
 9.  [Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 10. [Partial Rendering (Optional)](https://nextjs.org/learn/dashboard-app/partial-prerendering)
 11. [Adding Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
-12. Mutating Data
+12. [Mutating Data](https://nextjs.org/learn/dashboard-app/mutating-data)
 13. Handling Errors
 14. Improving Accessibility
 15. Adding Authentication
