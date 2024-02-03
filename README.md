@@ -9,7 +9,7 @@ Go from beginner to expert by learning the foundations of Next.js and building a
 1.  [Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
 2.  [CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
 3.  [Optimizing Fonts and Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
-4.  Creating Layouts and Pages
+4.  [Creating Layouts and Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
 5.  Navigating Between Pages
 6.  Setting Up Your Database
 7.  Fetching Data
